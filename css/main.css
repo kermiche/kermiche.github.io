@@ -60,11 +60,8 @@ body {
     font: 16px/26px Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-align: center;
     color: white;
-    background: url(../img/northernlights.jpg) no-repeat center fixed;
+    background: url(../img/noisynet.png);
     background-color: black;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
     display: none;
 }
 
